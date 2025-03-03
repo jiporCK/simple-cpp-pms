@@ -1,0 +1,3 @@
+/home/jipor/Documents/pre-university/self-research/pms/build/CMakeFiles/ProductApp.dir
+/home/jipor/Documents/pre-university/self-research/pms/build/CMakeFiles/edit_cache.dir
+/home/jipor/Documents/pre-university/self-research/pms/build/CMakeFiles/rebuild_cache.dir

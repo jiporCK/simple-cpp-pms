@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ProductApp.dir/src/model/Product.cpp.o CMakeFiles/ProductApp.dir/src/service/ProductService.cpp.o CMakeFiles/ProductApp.dir/src/view/View.cpp.o CMakeFiles/ProductApp.dir/src/controller/Controller.cpp.o CMakeFiles/ProductApp.dir/src/main.cpp.o -o ProductApp 
