@@ -1,0 +1,33 @@
+# Ignore build directories
+build/
+bin/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.o
+*.a
+*.so
+*.dll
+*.exe
+*.out
+
+# Ignore IDE/Editor specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore dependency directories (if you’re using package managers like vcpkg, conan, etc.)
+/vcpkg/
+/conan/
+
+# Ignore debug and release folders
+/debug/
+/release/
+
+# Ignore generated files by CMake
+CMakeLists.txt.user
+
